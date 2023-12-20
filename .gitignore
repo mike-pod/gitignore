@@ -1,3 +1,9 @@
+# Ignore single file
 new-file.txt
 
+# Ignore all files in the directory
 bin/
+
+# Ignore all files with extension ".tmp"
+# * is a wildcard and it matches 0 or more any chars
+*.tmp
